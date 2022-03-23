@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="SecretDifficulty">
+        <Key name="SecretDifficultyUnlocked">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="ArchonScore">
+        <Key name="ArchonScore">
+            <Value fixed="401.5"/>
+        </Key>
+    </Section>
+    <Section name="HighScore">
+        <Key name="HighScore">
+            <Value int="2530868"/>
+        </Key>
+    </Section>
+    <Section name="HasSeenIntro">
+        <Key name="HasSeenIntro">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+</Bank>

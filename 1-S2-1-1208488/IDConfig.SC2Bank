@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Hotkeys">
+        <Key name="UI">
+            <Value flag="1"/>
+        </Key>
+        <Key name="HKey5">
+            <Value int="6"/>
+        </Key>
+        <Key name="HKey2">
+            <Value int="3"/>
+        </Key>
+        <Key name="TeleCon">
+            <Value flag="1"/>
+        </Key>
+        <Key name="HCon4">
+            <Value flag="1"/>
+        </Key>
+        <Key name="HKey9">
+            <Value int="0"/>
+        </Key>
+        <Key name="HCon8">
+            <Value flag="1"/>
+        </Key>
+        <Key name="HKey3">
+            <Value int="4"/>
+        </Key>
+        <Key name="HKeyCon">
+            <Value flag="1"/>
+        </Key>
+        <Key name="HCon6">
+            <Value flag="1"/>
+        </Key>
+        <Key name="HCon0">
+            <Value flag="1"/>
+        </Key>
+        <Key name="SpaceCon">
+            <Value flag="0"/>
+        </Key>
+        <Key name="HCon10">
+            <Value flag="1"/>
+        </Key>
+        <Key name="HCon5">
+            <Value flag="1"/>
+        </Key>
+        <Key name="HKey10">
+            <Value int="0"/>
+        </Key>
+        <Key name="HKey7">
+            <Value int="8"/>
+        </Key>
+        <Key name="HKey0">
+            <Value int="1"/>
+        </Key>
+        <Key name="HKey8">
+            <Value int="0"/>
+        </Key>
+        <Key name="HCon7">
+            <Value flag="1"/>
+        </Key>
+        <Key name="HKey4">
+            <Value int="5"/>
+        </Key>
+        <Key name="HCon9">
+            <Value flag="1"/>
+        </Key>
+        <Key name="HKey1">
+            <Value int="2"/>
+        </Key>
+        <Key name="HCon3">
+            <Value flag="1"/>
+        </Key>
+        <Key name="HCon2">
+            <Value flag="1"/>
+        </Key>
+        <Key name="HCon1">
+            <Value flag="1"/>
+        </Key>
+        <Key name="HKey6">
+            <Value int="7"/>
+        </Key>
+    </Section>
+</Bank>

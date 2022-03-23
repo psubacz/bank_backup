@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Stats">
+        <Key name="Endurance">
+            <Value int="0"/>
+        </Key>
+        <Key name="Strength">
+            <Value int="0"/>
+        </Key>
+        <Key name="AvailableStatPoints">
+            <Value int="0"/>
+        </Key>
+        <Key name="Agility">
+            <Value int="0"/>
+        </Key>
+        <Key name="Perception">
+            <Value int="0"/>
+        </Key>
+        <Key name="TotalStats">
+            <Value int="0"/>
+        </Key>
+        <Key name="Intelligence">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="PlayerData">
+        <Key name="TotalExperience">
+            <Value int="0"/>
+        </Key>
+        <Key name="GamesPlayed">
+            <Value int="1"/>
+        </Key>
+        <Key name="Credits">
+            <Value int="0"/>
+        </Key>
+        <Key name="Rating">
+            <Value int="1000"/>
+        </Key>
+        <Key name="Rank">
+            <Value int="1"/>
+        </Key>
+        <Key name="AvailableExperience">
+            <Value int="0"/>
+        </Key>
+    </Section>
+</Bank>

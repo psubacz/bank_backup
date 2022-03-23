@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Easy">
+        <Key name="DefeatsSurvivor">
+            <Value int="2"/>
+        </Key>
+        <Key name="DistanceTraveledInADay">
+            <Value int="459"/>
+        </Key>
+        <Key name="Attempts">
+            <Value int="3"/>
+        </Key>
+        <Key name="EggsPoppedInADay">
+            <Value int="5"/>
+        </Key>
+        <Key name="MineralsFoundInADay">
+            <Value int="900"/>
+        </Key>
+        <Key name="Deaths">
+            <Value int="4"/>
+        </Key>
+        <Key name="GasFoundInADay">
+            <Value int="700"/>
+        </Key>
+        <Key name="UnitsKilledInADay">
+            <Value int="8"/>
+        </Key>
+        <Key name="LeftTheGame">
+            <Value int="4"/>
+        </Key>
+    </Section>
+    <Section name="Misc">
+        <Key name="Version">
+            <Value string="1.0"/>
+        </Key>
+    </Section>
+    <Signature value="C1CE4D7223AFC26D3A1D707F7CA6502904B5E0BF"/>
+</Bank>

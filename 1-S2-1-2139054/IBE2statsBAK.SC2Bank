@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="1">
+        <Key name="lvs">
+            <Value int="0"/>
+        </Key>
+        <Key name="">
+            <Value int="0"/>
+        </Key>
+        <Key name="esct">
+            <Value int="0"/>
+        </Key>
+        <Key name="esc">
+            <Value int="0"/>
+        </Key>
+        <Key name="lvt">
+            <Value int="0"/>
+        </Key>
+        <Key name="ds">
+            <Value int="0"/>
+        </Key>
+        <Key name="rs">
+            <Value int="0"/>
+        </Key>
+        <Key name="lu">
+            <Value int="0"/>
+        </Key>
+        <Key name="ver">
+            <Value int="2005"/>
+        </Key>
+    </Section>
+    <Signature value="595C491119B619FE5B439D6E2B6A70D1C67E272D"/>
+</Bank>

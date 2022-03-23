@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="0">
+        <Key name="1">
+            <Value fixed="21005.607"/>
+        </Key>
+        <Key name="0">
+            <Value int="3781"/>
+        </Key>
+    </Section>
+    <Signature value="4B283D06A2D083EBEC9778A3E662B4BFB633532B"/>
+</Bank>

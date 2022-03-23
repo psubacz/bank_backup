@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Main">
+        <Key name="RH">
+            <Value int="516062298"/>
+        </Key>
+        <Key name="GGHG">
+            <Value int="452651744"/>
+        </Key>
+        <Key name="R19">
+            <Value int="617258961"/>
+        </Key>
+        <Key name="12A">
+            <Value int="280678383"/>
+        </Key>
+        <Key name="CCCCCC">
+            <Value int="1"/>
+        </Key>
+        <Key name="R9">
+            <Value int="267775915"/>
+        </Key>
+        <Key name="OO">
+            <Value int="357843278"/>
+        </Key>
+        <Key name="13A">
+            <Value int="947506913"/>
+        </Key>
+        <Key name="Human">
+            <Value int="1"/>
+        </Key>
+        <Key name="LC">
+            <Value int="963248581"/>
+        </Key>
+        <Key name="l3A">
+            <Value int="645332581"/>
+        </Key>
+        <Key name="G6">
+            <Value int="817602233"/>
+        </Key>
+    </Section>
+    <Signature value="4113AE19DF8595AC9FA6AEB6E7C65075E1EB8E4D"/>
+</Bank>

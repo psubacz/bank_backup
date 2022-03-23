@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Stuff">
+        <Key name="music">
+            <Value flag="1"/>
+        </Key>
+        <Key name="directions">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="stuff">
+        <Key name="kill">
+            <Value string="01-Umd{u|cduoho$lF+m$eR;KjGQ*"/>
+        </Key>
+        <Key name="reputation">
+            <Value string="01:,md{u|cduohNjZNafwLjSZ8xwi`/"/>
+        </Key>
+        <Key name="death">
+            <Value string="01EMmd{u|cduohv|w}bt|p87n4`Ap"/>
+        </Key>
+        <Key name="loss">
+            <Value string="029Tmd{u|cduohyYN[}wYG6}qj|-}"/>
+        </Key>
+        <Key name="disconnect">
+            <Value string="01%dmd{u|cduohfzl(;dze+;Fqo~G"/>
+        </Key>
+        <Key name="win">
+            <Value string="01]Dmd{u|cduohMYo$$KYh_!jxB~/"/>
+        </Key>
+    </Section>
+    <Signature value="36045A007A25C7C4DA5CE04F7C2E852607FCFDC9"/>
+</Bank>

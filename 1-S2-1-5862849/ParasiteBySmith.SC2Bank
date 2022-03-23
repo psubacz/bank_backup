@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Main">
+        <Key name="RH">
+            <Value int="563536767"/>
+        </Key>
+        <Key name="DeathsAsHuman">
+            <Value int="1"/>
+        </Key>
+        <Key name="GGHG">
+            <Value int="346028005"/>
+        </Key>
+        <Key name="GamesPlayed">
+            <Value int="1"/>
+        </Key>
+        <Key name="Losses">
+            <Value int="1"/>
+        </Key>
+        <Key name="R19">
+            <Value int="145088641"/>
+        </Key>
+        <Key name="Deaths">
+            <Value int="1"/>
+        </Key>
+        <Key name="12A">
+            <Value int="889983301"/>
+        </Key>
+        <Key name="CCCCCC">
+            <Value int="1"/>
+        </Key>
+        <Key name="R9">
+            <Value int="408715806"/>
+        </Key>
+        <Key name="OO">
+            <Value int="408280566"/>
+        </Key>
+        <Key name="13A">
+            <Value int="414599866"/>
+        </Key>
+        <Key name="Human">
+            <Value int="1"/>
+        </Key>
+        <Key name="LC">
+            <Value int="358153826"/>
+        </Key>
+        <Key name="Miner">
+            <Value int="1"/>
+        </Key>
+        <Key name="l3A">
+            <Value int="574945581"/>
+        </Key>
+        <Key name="G6">
+            <Value int="871043604"/>
+        </Key>
+    </Section>
+    <Signature value="BFC7A4EB00E7A40A5C13D010FEE6E177B3992854"/>
+</Bank>

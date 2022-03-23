@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Game Stats">
+        <Key name="Builder">
+            <Value int="139"/>
+        </Key>
+        <Key name="Games Played">
+            <Value int="149"/>
+        </Key>
+        <Key name="Titan">
+            <Value int="10"/>
+        </Key>
+    </Section>
+    <Signature value="59E6EF5CE06E39A36CEE2D8ABD81E9C16547BD97"/>
+</Bank>

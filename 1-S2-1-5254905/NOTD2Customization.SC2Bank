@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Customization">
+        <Key name="Char Mod Slot 1">
+            <Value string="NightVision"/>
+        </Key>
+        <Key name="Char Mod Slot 2">
+            <Value string=""/>
+        </Key>
+        <Key name="Char Mod Slot 3">
+            <Value string=""/>
+        </Key>
+        <Key name="Sidearm">
+            <Value string="CombatKnifeSidearm"/>
+        </Key>
+        <Key name="Service Branch">
+            <Value string=""/>
+        </Key>
+        <Key name="Pet">
+            <Value string="PredatorPet"/>
+        </Key>
+    </Section>
+</Bank>

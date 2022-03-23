@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Stats">
+        <Key name="Lvl">
+            <Value int="0"/>
+        </Key>
+        <Key name="AchievementPoints">
+            <Value int="60"/>
+        </Key>
+        <Key name="Heals">
+            <Value int="0"/>
+        </Key>
+        <Key name="set6">
+            <Value int="65280"/>
+        </Key>
+        <Key name="TimesPlayed">
+            <Value int="2"/>
+        </Key>
+        <Key name="Games">
+            <Value int="1"/>
+        </Key>
+        <Key name="set2">
+            <Value int="1"/>
+        </Key>
+        <Key name="Exp">
+            <Value int="0"/>
+        </Key>
+        <Key name="set1">
+            <Value int="1"/>
+        </Key>
+        <Key name="TimePlayed">
+            <Value fixed="5"/>
+        </Key>
+    </Section>
+    <Signature value="1C66A6AB7F73A2AA2D60EE794540EE11A29602E0"/>
+</Bank>

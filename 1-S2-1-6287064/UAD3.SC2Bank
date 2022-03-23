@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="X">
+        <Key name="CS">
+            <Value int="0"/>
+        </Key>
+        <Key name="TipLoc">
+            <Value string=""/>
+        </Key>
+        <Key name="ID">
+            <Value string="4EDFF603BA610A85E93498B951A04A38BA1D1A25"/>
+        </Key>
+    </Section>
+    <Section name="Time">
+        <Key name="StartDate">
+            <Value string="Thursday, October 10, 2019, 5:39:29 PM"/>
+        </Key>
+        <Key name="LastPlayed">
+            <Value string="Thursday, October 10, 2019, 5:51:10 PM"/>
+        </Key>
+        <Key name="UNIXEPOCHSD">
+            <Value string="1570729169"/>
+        </Key>
+        <Key name="Day">
+            <Value string="0000000"/>
+        </Key>
+        <Key name="Signature">
+            <Value string="57FDE674BD22A57B8FD18B68770F81D44ECE2E9D"/>
+        </Key>
+        <Key name="UNIXEPOCHLP">
+            <Value string="1570729870"/>
+        </Key>
+    </Section>
+    <Signature value="2B0CF6B56E889C16314F9F109ED2DCF837F42349"/>
+</Bank>

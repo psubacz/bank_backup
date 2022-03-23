@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Main">
+        <Key name="CWEPO">
+            <Value int="1"/>
+        </Key>
+        <Key name="RH">
+            <Value int="842429039"/>
+        </Key>
+        <Key name="DeathsAsHuman">
+            <Value int="1"/>
+        </Key>
+        <Key name="GGHG">
+            <Value int="497376396"/>
+        </Key>
+        <Key name="DeathsAsSpawn">
+            <Value int="1"/>
+        </Key>
+        <Key name="GamesPlayed">
+            <Value int="4"/>
+        </Key>
+        <Key name="Losses">
+            <Value int="1"/>
+        </Key>
+        <Key name="CMECO">
+            <Value int="1"/>
+        </Key>
+        <Key name="R19">
+            <Value int="916236990"/>
+        </Key>
+        <Key name="CIO">
+            <Value int="1"/>
+        </Key>
+        <Key name="Deaths">
+            <Value int="2"/>
+        </Key>
+        <Key name="Spawned">
+            <Value int="1"/>
+        </Key>
+        <Key name="Wins">
+            <Value int="2"/>
+        </Key>
+        <Key name="12A">
+            <Value int="586683548"/>
+        </Key>
+        <Key name="CCCCCC">
+            <Value int="1"/>
+        </Key>
+        <Key name="R9">
+            <Value int="571701318"/>
+        </Key>
+        <Key name="OO">
+            <Value int="325021731"/>
+        </Key>
+        <Key name="13A">
+            <Value int="960527319"/>
+        </Key>
+        <Key name="Human">
+            <Value int="3"/>
+        </Key>
+        <Key name="LC">
+            <Value int="136587675"/>
+        </Key>
+        <Key name="l3A">
+            <Value int="679035835"/>
+        </Key>
+        <Key name="G6">
+            <Value int="414455970"/>
+        </Key>
+    </Section>
+    <Signature value="0906C14A05B7F3932F5A8C9F272172E0E56097B9"/>
+</Bank>

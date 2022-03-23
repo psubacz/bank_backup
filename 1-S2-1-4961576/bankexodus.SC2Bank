@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="bunker">
+        <Key name="1">
+            <Value int="0"/>
+        </Key>
+        <Key name="2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="winpoints">
+        <Key name="1">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="time">
+        <Key name="days">
+            <Value int="0"/>
+        </Key>
+        <Key name="minutes">
+            <Value int="3"/>
+        </Key>
+        <Key name="seconds">
+            <Value int="47"/>
+        </Key>
+        <Key name="hours">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="sensorrange">
+        <Key name="1">
+            <Value int="0"/>
+        </Key>
+        <Key name="2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="autoturret">
+        <Key name="4">
+            <Value int="0"/>
+        </Key>
+        <Key name="1">
+            <Value int="0"/>
+        </Key>
+        <Key name="3">
+            <Value int="0"/>
+        </Key>
+        <Key name="2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="powergrid">
+        <Key name="1">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="gravgun">
+        <Key name="1">
+            <Value int="0"/>
+        </Key>
+        <Key name="3">
+            <Value int="0"/>
+        </Key>
+        <Key name="2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="resources">
+        <Key name="4">
+            <Value int="0"/>
+        </Key>
+        <Key name="9">
+            <Value int="0"/>
+        </Key>
+        <Key name="6">
+            <Value int="0"/>
+        </Key>
+        <Key name="1">
+            <Value int="507"/>
+        </Key>
+        <Key name="3">
+            <Value int="35"/>
+        </Key>
+        <Key name="8">
+            <Value int="0"/>
+        </Key>
+        <Key name="10">
+            <Value int="0"/>
+        </Key>
+        <Key name="2">
+            <Value int="75"/>
+        </Key>
+        <Key name="11">
+            <Value int="0"/>
+        </Key>
+        <Key name="7">
+            <Value int="0"/>
+        </Key>
+        <Key name="13">
+            <Value int="0"/>
+        </Key>
+        <Key name="12">
+            <Value int="0"/>
+        </Key>
+        <Key name="5">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="games">
+        <Key name="total">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="minigun">
+        <Key name="4">
+            <Value int="0"/>
+        </Key>
+        <Key name="6">
+            <Value int="0"/>
+        </Key>
+        <Key name="1">
+            <Value int="0"/>
+        </Key>
+        <Key name="3">
+            <Value int="0"/>
+        </Key>
+        <Key name="2">
+            <Value int="0"/>
+        </Key>
+        <Key name="5">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="kills">
+        <Key name="nydus">
+            <Value int="0"/>
+        </Key>
+        <Key name="total">
+            <Value int="7"/>
+        </Key>
+        <Key name="boss">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="barrier">
+        <Key name="4">
+            <Value int="0"/>
+        </Key>
+        <Key name="1">
+            <Value int="0"/>
+        </Key>
+        <Key name="3">
+            <Value int="0"/>
+        </Key>
+        <Key name="2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="cooling">
+        <Key name="1">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="sniper">
+        <Key name="4">
+            <Value int="0"/>
+        </Key>
+        <Key name="1">
+            <Value int="0"/>
+        </Key>
+        <Key name="3">
+            <Value int="0"/>
+        </Key>
+        <Key name="2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="wunlocked">
+        <Key name="16">
+            <Value flag="0"/>
+        </Key>
+        <Key name="14">
+            <Value flag="0"/>
+        </Key>
+        <Key name="4">
+            <Value flag="0"/>
+        </Key>
+        <Key name="9">
+            <Value flag="0"/>
+        </Key>
+        <Key name="6">
+            <Value flag="0"/>
+        </Key>
+        <Key name="1">
+            <Value flag="1"/>
+        </Key>
+        <Key name="3">
+            <Value flag="0"/>
+        </Key>
+        <Key name="8">
+            <Value flag="0"/>
+        </Key>
+        <Key name="10">
+            <Value flag="0"/>
+        </Key>
+        <Key name="2">
+            <Value flag="0"/>
+        </Key>
+        <Key name="11">
+            <Value flag="0"/>
+        </Key>
+        <Key name="15">
+            <Value flag="0"/>
+        </Key>
+        <Key name="7">
+            <Value flag="0"/>
+        </Key>
+        <Key name="17">
+            <Value flag="0"/>
+        </Key>
+        <Key name="13">
+            <Value flag="0"/>
+        </Key>
+        <Key name="12">
+            <Value flag="0"/>
+        </Key>
+        <Key name="18">
+            <Value flag="0"/>
+        </Key>
+        <Key name="5">
+            <Value flag="0"/>
+        </Key>
+    </Section>
+    <Section name="laser">
+        <Key name="1">
+            <Value int="0"/>
+        </Key>
+        <Key name="2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="shield">
+        <Key name="1">
+            <Value int="0"/>
+        </Key>
+        <Key name="2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="autocannon">
+        <Key name="1">
+            <Value int="0"/>
+        </Key>
+        <Key name="3">
+            <Value int="0"/>
+        </Key>
+        <Key name="2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="perdition">
+        <Key name="1">
+            <Value int="0"/>
+        </Key>
+        <Key name="3">
+            <Value int="0"/>
+        </Key>
+        <Key name="2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="drill">
+        <Key name="1">
+            <Value int="0"/>
+        </Key>
+        <Key name="2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="gate">
+        <Key name="4">
+            <Value int="0"/>
+        </Key>
+        <Key name="1">
+            <Value int="0"/>
+        </Key>
+        <Key name="3">
+            <Value int="0"/>
+        </Key>
+        <Key name="2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="xp">
+        <Key name="1">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="psunlocked">
+        <Key name="4">
+            <Value flag="0"/>
+        </Key>
+        <Key name="9">
+            <Value flag="0"/>
+        </Key>
+        <Key name="6">
+            <Value flag="0"/>
+        </Key>
+        <Key name="1">
+            <Value flag="1"/>
+        </Key>
+        <Key name="3">
+            <Value flag="0"/>
+        </Key>
+        <Key name="8">
+            <Value flag="0"/>
+        </Key>
+        <Key name="10">
+            <Value flag="0"/>
+        </Key>
+        <Key name="2">
+            <Value flag="0"/>
+        </Key>
+        <Key name="11">
+            <Value flag="0"/>
+        </Key>
+        <Key name="7">
+            <Value flag="0"/>
+        </Key>
+        <Key name="12">
+            <Value flag="0"/>
+        </Key>
+        <Key name="5">
+            <Value flag="0"/>
+        </Key>
+    </Section>
+    <Section name="smelter">
+        <Key name="1">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="dunlocked">
+        <Key name="4">
+            <Value flag="0"/>
+        </Key>
+        <Key name="9">
+            <Value flag="0"/>
+        </Key>
+        <Key name="6">
+            <Value flag="0"/>
+        </Key>
+        <Key name="1">
+            <Value flag="0"/>
+        </Key>
+        <Key name="3">
+            <Value flag="0"/>
+        </Key>
+        <Key name="8">
+            <Value flag="0"/>
+        </Key>
+        <Key name="10">
+            <Value flag="0"/>
+        </Key>
+        <Key name="2">
+            <Value flag="0"/>
+        </Key>
+        <Key name="11">
+            <Value flag="0"/>
+        </Key>
+        <Key name="7">
+            <Value flag="0"/>
+        </Key>
+        <Key name="12">
+            <Value flag="0"/>
+        </Key>
+        <Key name="5">
+            <Value flag="0"/>
+        </Key>
+    </Section>
+    <Section name="powersuits">
+        <Key name="60">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="repairspeed">
+        <Key name="1">
+            <Value int="0"/>
+        </Key>
+        <Key name="2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="railgun">
+        <Key name="4">
+            <Value int="0"/>
+        </Key>
+        <Key name="6">
+            <Value int="0"/>
+        </Key>
+        <Key name="1">
+            <Value int="0"/>
+        </Key>
+        <Key name="3">
+            <Value int="0"/>
+        </Key>
+        <Key name="2">
+            <Value int="0"/>
+        </Key>
+        <Key name="7">
+            <Value int="0"/>
+        </Key>
+        <Key name="5">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="weapons">
+        <Key name="60">
+            <Value int="1"/>
+        </Key>
+    </Section>
+</Bank>

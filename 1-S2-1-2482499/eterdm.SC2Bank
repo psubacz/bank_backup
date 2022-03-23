@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="1">
+        <Key name="PersistentInventory1Slot4">
+            <Value string="LesserClarityPotion"/>
+        </Key>
+        <Key name="DMLosesStage1">
+            <Value int="0"/>
+        </Key>
+        <Key name="DMWins">
+            <Value int="0"/>
+        </Key>
+        <Key name="DMPlayed">
+            <Value int="0"/>
+        </Key>
+        <Key name="PersistentInventory1Slot6">
+            <Value string="LesserClarityPotion"/>
+        </Key>
+        <Key name="DMLosesStage2">
+            <Value int="0"/>
+        </Key>
+        <Key name="DMLoses">
+            <Value int="0"/>
+        </Key>
+        <Key name="HeroDeaths">
+            <Value int="7"/>
+        </Key>
+        <Key name="DMWinsStage1">
+            <Value int="0"/>
+        </Key>
+        <Key name="HeroWinsStage2">
+            <Value int="2"/>
+        </Key>
+        <Key name="GamesPlayed">
+            <Value int="4"/>
+        </Key>
+        <Key name="HeroDamageGive">
+            <Value int="114692"/>
+        </Key>
+        <Key name="HeroHealTake">
+            <Value int="9290"/>
+        </Key>
+        <Key name="HeroIronMan">
+            <Value int="0"/>
+        </Key>
+        <Key name="PersistentInventory1Slot1">
+            <Value string="LesserClarityPotion"/>
+        </Key>
+        <Key name="HeroLosesStage2">
+            <Value int="1"/>
+        </Key>
+        <Key name="HeroLosesStage1">
+            <Value int="1"/>
+        </Key>
+        <Key name="PersistentInventory1Slot5">
+            <Value string="LesserClarityPotion"/>
+        </Key>
+        <Key name="PersistentInventory1Slot3">
+            <Value string="LesserClarityPotion"/>
+        </Key>
+        <Key name="EterEpoch">
+            <Value int="1647110373"/>
+        </Key>
+        <Key name="DuelsLost">
+            <Value int="0"/>
+        </Key>
+        <Key name="HeroWins">
+            <Value int="2"/>
+        </Key>
+        <Key name="EterTag">
+            <Value int="933207"/>
+        </Key>
+        <Key name="DuelsWon">
+            <Value int="0"/>
+        </Key>
+        <Key name="DMWinsStage2">
+            <Value int="0"/>
+        </Key>
+        <Key name="HeroLoses">
+            <Value int="2"/>
+        </Key>
+        <Key name="PersistentInventory1Slot2">
+            <Value string="LesserClarityPotion"/>
+        </Key>
+        <Key name="EterVersion">
+            <Value int="1"/>
+        </Key>
+        <Key name="HeroRezGive">
+            <Value int="4"/>
+        </Key>
+        <Key name="HeroWinsStage1">
+            <Value int="0"/>
+        </Key>
+        <Key name="HeroPlayed">
+            <Value int="4"/>
+        </Key>
+        <Key name="HeroDamageTake">
+            <Value int="14346"/>
+        </Key>
+        <Key name="HeroHealGive">
+            <Value int="3581"/>
+        </Key>
+        <Key name="HeroRezTake">
+            <Value int="5"/>
+        </Key>
+        <Key name="DMKills">
+            <Value int="0"/>
+        </Key>
+        <Key name="HeroArpad">
+            <Value int="1222"/>
+        </Key>
+        <Key name="DMArpad">
+            <Value int="1000"/>
+        </Key>
+    </Section>
+    <Signature value="25E2093A80080B6AEC77BB4F0418F6376A30B0D8"/>
+</Bank>

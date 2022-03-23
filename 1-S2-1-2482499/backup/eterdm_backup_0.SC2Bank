@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="1">
+        <Key name="DMLosesStage1">
+            <Value int="0"/>
+        </Key>
+        <Key name="DMWins">
+            <Value int="0"/>
+        </Key>
+        <Key name="DMPlayed">
+            <Value int="0"/>
+        </Key>
+        <Key name="DMLosesStage2">
+            <Value int="0"/>
+        </Key>
+        <Key name="DMLoses">
+            <Value int="0"/>
+        </Key>
+        <Key name="HeroDeaths">
+            <Value int="0"/>
+        </Key>
+        <Key name="DMWinsStage1">
+            <Value int="0"/>
+        </Key>
+        <Key name="HeroWinsStage2">
+            <Value int="0"/>
+        </Key>
+        <Key name="GamesPlayed">
+            <Value int="0"/>
+        </Key>
+        <Key name="HeroDamageGive">
+            <Value int="0"/>
+        </Key>
+        <Key name="HeroHealTake">
+            <Value int="0"/>
+        </Key>
+        <Key name="HeroIronMan">
+            <Value int="0"/>
+        </Key>
+        <Key name="HeroLosesStage2">
+            <Value int="0"/>
+        </Key>
+        <Key name="HeroLosesStage1">
+            <Value int="0"/>
+        </Key>
+        <Key name="EterEpoch">
+            <Value int="1643909733"/>
+        </Key>
+        <Key name="DuelsLost">
+            <Value int="0"/>
+        </Key>
+        <Key name="HeroWins">
+            <Value int="0"/>
+        </Key>
+        <Key name="EterTag">
+            <Value int="933207"/>
+        </Key>
+        <Key name="DuelsWon">
+            <Value int="0"/>
+        </Key>
+        <Key name="DMWinsStage2">
+            <Value int="0"/>
+        </Key>
+        <Key name="HeroLoses">
+            <Value int="0"/>
+        </Key>
+        <Key name="EterVersion">
+            <Value int="1"/>
+        </Key>
+        <Key name="HeroRezGive">
+            <Value int="0"/>
+        </Key>
+        <Key name="HeroWinsStage1">
+            <Value int="0"/>
+        </Key>
+        <Key name="HeroPlayed">
+            <Value int="0"/>
+        </Key>
+        <Key name="HeroDamageTake">
+            <Value int="0"/>
+        </Key>
+        <Key name="HeroHealGive">
+            <Value int="0"/>
+        </Key>
+        <Key name="HeroRezTake">
+            <Value int="0"/>
+        </Key>
+        <Key name="DMKills">
+            <Value int="0"/>
+        </Key>
+        <Key name="HeroArpad">
+            <Value int="1000"/>
+        </Key>
+        <Key name="DMArpad">
+            <Value int="1000"/>
+        </Key>
+    </Section>
+    <Signature value="F3222A538718F9CAFBB25E3BB3873AB77F16DB9A"/>
+</Bank>

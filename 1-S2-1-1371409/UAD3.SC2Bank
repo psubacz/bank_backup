@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="MOS0">
+        <Key name="ACH1">
+            <Value string="00000000000000"/>
+        </Key>
+        <Key name="ACH0">
+            <Value int="32"/>
+        </Key>
+        <Key name="ACH2">
+            <Value int="0"/>
+        </Key>
+        <Key name="ACH3">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="MOS1">
+        <Key name="ACH1">
+            <Value int="6"/>
+        </Key>
+        <Key name="ACH0">
+            <Value int="275"/>
+        </Key>
+    </Section>
+    <Section name="Options">
+        <Key name="Gameplay">
+            <Value string="True True B"/>
+        </Key>
+    </Section>
+    <Section name="MOS2">
+        <Key name="ACH1">
+            <Value int="40141"/>
+        </Key>
+        <Key name="ACH2">
+            <Value int="25184"/>
+        </Key>
+        <Key name="ACH3">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="X">
+        <Key name="COORD">
+            <Value string="1350 || 950"/>
+        </Key>
+        <Key name="CS">
+            <Value int="1175"/>
+        </Key>
+        <Key name="JG">
+            <Value int="140"/>
+        </Key>
+        <Key name="TipLoc">
+            <Value string="812 333"/>
+        </Key>
+        <Key name="RI">
+            <Value int="425"/>
+        </Key>
+        <Key name="ID">
+            <Value string="EE070F6F8DAABD32E6F6028638BA30C3DFC5F53F"/>
+        </Key>
+        <Key name="AR">
+            <Value int="6021"/>
+        </Key>
+        <Key name="PL">
+            <Value int="760"/>
+        </Key>
+        <Key name="SDM">
+            <Value int="180"/>
+        </Key>
+        <Key name="CM">
+            <Value int="2262"/>
+        </Key>
+    </Section>
+    <Section name="MOS5">
+        <Key name="ACH1">
+            <Value int="0"/>
+        </Key>
+        <Key name="ACH0">
+            <Value string="00010000"/>
+        </Key>
+        <Key name="ACH2">
+            <Value int="1"/>
+        </Key>
+        <Key name="ACH3">
+            <Value int="66"/>
+        </Key>
+    </Section>
+    <Section name="MOS7">
+        <Key name="ACH1">
+            <Value int="0"/>
+        </Key>
+        <Key name="ACH0">
+            <Value int="15"/>
+        </Key>
+        <Key name="ACH2">
+            <Value int="0"/>
+        </Key>
+        <Key name="ACH3">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="Time">
+        <Key name="StartDate">
+            <Value string="Thursday, March 12, 2020, 7:33:9 PM"/>
+        </Key>
+        <Key name="LastPlayed">
+            <Value string="Thursday, March 12, 2020, 7:33:16 PM"/>
+        </Key>
+        <Key name="UNIXEPOCHSD">
+            <Value string="1584041589"/>
+        </Key>
+        <Key name="Day">
+            <Value string="0000100"/>
+        </Key>
+        <Key name="Signature">
+            <Value string="80B5845D5B1996531BD232F3A51DCB2E710F83D4"/>
+        </Key>
+        <Key name="UNIXEPOCHLP">
+            <Value string="1584041596"/>
+        </Key>
+    </Section>
+    <Section name="MOS6">
+        <Key name="ACH1">
+            <Value int="0"/>
+        </Key>
+        <Key name="ACH0">
+            <Value int="0"/>
+        </Key>
+        <Key name="ACH2">
+            <Value int="953"/>
+        </Key>
+        <Key name="ACH3">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="MOS3">
+        <Key name="ACH1">
+            <Value int="0"/>
+        </Key>
+        <Key name="ACH0">
+            <Value int="0"/>
+        </Key>
+        <Key name="ACH2">
+            <Value int="3"/>
+        </Key>
+        <Key name="ACH3">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Signature value="CD9D56A2DC57EA65FFFC89CD2FA44CCA3864A264"/>
+</Bank>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="1">
+        <Key name="LeaderboardMinimized">
+            <Value flag="1"/>
+        </Key>
+        <Key name="minimapCommandsEnabled">
+            <Value flag="1"/>
+        </Key>
+        <Key name="altHotkeys">
+            <Value flag="0"/>
+        </Key>
+        <Key name="timerVisible">
+            <Value flag="0"/>
+        </Key>
+        <Key name="minimapVisible">
+            <Value flag="1"/>
+        </Key>
+        <Key name="UI Visible">
+            <Value flag="1"/>
+        </Key>
+        <Key name="ver">
+            <Value int="1"/>
+        </Key>
+        <Key name="LeaderboardVisible">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+</Bank>
